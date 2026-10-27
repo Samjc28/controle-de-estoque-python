@@ -1,0 +1,12 @@
+# Dependências do Projeto
+# Este projeto utiliza exclusivamente módulos nativos da biblioteca padrão do Python (Standard Library):
+# - tkinter (Interface Gráfica)
+# - sqlite3 (Banco de Dados Relacional Embarcado)
+# - pathlib (Manipulação robusta de caminhos do sistema)
+#
+# Requisito de ambiente:
+# Python >= 3.8
+#
+# Observação para usuários Linux (Ubuntu/Debian):
+# Caso o Tkinter não venha instalado por padrão com a distribuição Python, instale via:
+# sudo apt-get update && sudo apt-get install python3-tk
